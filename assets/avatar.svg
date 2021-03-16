@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="211" height="208" viewBox="0 0 211 208">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e2fbff"/>
+      <stop offset="1" stop-color="#ffe2cf"/>
+    </linearGradient>
+    <filter id="Path_2803" x="0" y="0" width="211" height="208" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="11" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Mask" width="144.296" height="142.096" rx="71.048" transform="translate(0.352 0)" fill="rgba(53,59,80,0.99)" stroke="rgba(53,59,80,0)" stroke-miterlimit="10" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M-39.85,63.839v.2q-.081,6.249-10.535,9.4c8.4,6.092,16.8,10.965,25.193,10.965S-8.4,79.525,0,73.434q-10.383-3.152-10.533-9.41c0-.744.006-1.8.01-3.783q0-.472,0-.968c.5.071.46.026,0-.1.014-5.217.036-12.233.067-19.362,6.565-8.487,4.153-18.438,2.1-18.189-2.524.3-24.375-20.377-28.566-21.435s-14.837,2.361-16.67,11.9-2.6,33.577,4.351,43.174q2.966,4.1,9.343,3.2c.006,2,.018,3.116.047,5.377Z" transform="translate(0 -0.024) rotate(180)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="1" x2="0.688" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#353b50"/>
+      <stop offset="1" stop-color="#232439"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <path id="Combined_Shape-2" data-name="Combined Shape" d="M102.7,17.014c4.345,8.827,6.846,29.186,6.846,29.186H0S2.5,25.839,6.846,17.014,36.559,0,36.559,0c4.89,10.032,31.725,10.031,36.41,0C72.969,0,98.35,8.186,102.7,17.014Z" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_9724" data-name="Group 9724" transform="translate(33 29)">
+    <g transform="matrix(1, 0, 0, 1, -33, -29)" filter="url(#Path_2803)">
+      <path id="Path_2803-2" data-name="Path 2803" d="M72.5,0C112.541,0,145,31.788,145,71s-32.459,71-72.5,71S0,110.212,0,71,32.459,0,72.5,0Z" transform="translate(33 29)" fill="#fff"/>
+    </g>
+    <g id="Group_30" data-name="Group 30" opacity="0.139">
+      <g id="Path_7" data-name="Path 7">
+        <rect id="Mask-2" data-name="Mask" width="144.296" height="142.096" rx="71.048" transform="translate(0.352 0)" fill="rgba(53,59,80,0.99)" stroke="rgba(53,59,80,0)" stroke-miterlimit="10" stroke-width="1"/>
+        <g id="Path_7-2" data-name="Path 7" clip-path="url(#clip-path)">
+          <g id="User_07a" data-name="User 07a" transform="translate(17.729 24.851)">
+            <g id="Group_10" data-name="Group 10" transform="translate(16.203)">
+              <g id="Group_11" data-name="Group 11">
+                <g id="Group_11-2" data-name="Group 11" transform="translate(66.111) rotate(180)">
+                  <g id="Group_2" data-name="Group 2">
+                    <g id="Group_14" data-name="Group 14">
+                      <g id="Path_48" data-name="Path 48" transform="translate(2.29 -7.31)">
+                        <path id="Combined_Shape-3" data-name="Combined Shape" d="M-39.85,63.839v.2q-.081,6.249-10.535,9.4c8.4,6.092,16.8,10.965,25.193,10.965S-8.4,79.525,0,73.434q-10.383-3.152-10.533-9.41c0-.744.006-1.8.01-3.783q0-.472,0-.968c.5.071.46.026,0-.1.014-5.217.036-12.233.067-19.362,6.565-8.487,4.153-18.438,2.1-18.189-2.524.3-24.375-20.377-28.566-21.435s-14.837,2.361-16.67,11.9-2.6,33.577,4.351,43.174q2.966,4.1,9.343,3.2c.006,2,.018,3.116.047,5.377Z" transform="translate(0 -0.024) rotate(180)" fill="url(#linear-gradient)"/>
+                        <g id="Path_48-2" data-name="Path 48" clip-path="url(#clip-path-2)">
+                          <path id="Path_48-3" data-name="Path 48" d="M-16.49,5.482A39.793,39.793,0,0,0,0,0S-6.935,9.191-16.49,10.965Z" transform="translate(23.361 -52.997) rotate(180)" fill="#ffbe94" opacity="0.228"/>
+                        </g>
+                      </g>
+                      <path id="Path_22" data-name="Path 22" d="M-9.25,47.109c3.156-7.571,15.8-22.988,4.9-32.583C-8.013-3.292-28.259-1.319-41.772,2.792c-9.082,2.764-15.94,8.224-17.406,4.112-9.161,7.622-4.573,15.077,1.466,17.217C-52.23,26.063-42.961,28-27.2,26.177c2.815-.326,2.226,8.273,3.73,9.2,2.257,1.395,4.009-7.375,10.2-4.742s2.516,14.844-4.126,14.844c-2.29,0-3.435,6.28,2.748,9.25C-10.166,56.932-11.3,52.028-9.25,47.109Z" transform="translate(0.14 -0.177) rotate(180)" fill="url(#linear-gradient-3)"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_21" data-name="Group 21" transform="translate(0 78.376)">
+              <path id="Combined_Shape-4" data-name="Combined Shape" d="M102.7,17.014c4.345,8.827,6.846,29.186,6.846,29.186H0S2.5,25.839,6.846,17.014,36.559,0,36.559,0c4.89,10.032,31.725,10.031,36.41,0C72.969,0,98.35,8.186,102.7,17.014Z" fill="#fff"/>
+              <g id="Group_21-2" data-name="Group 21" clip-path="url(#clip-path-3)">
+                <path id="Combined_Shape-5" data-name="Combined Shape" d="M0,21.89V18.241H118.67V21.89Zm0-9.121V9.121H118.67v3.649ZM0,3.649V0H118.67V3.649Z" transform="translate(-4.564 15.049)" fill="#353b50"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
